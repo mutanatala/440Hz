@@ -28,3 +28,4 @@ if __name__ == "__main__":
     
     print("\n🎵 Playing a frequency sweep from 100Hz to 1000Hz...")
     play_frequency_range(100, 1000, 100, 1)
+567
